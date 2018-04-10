@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/hduser/dddd/src/main/scala/recModel.scala:45:21: too many arguments for method apply: (userId: String, productId: String, rating: Double)AmazonRating in object AmazonRating[0m
+[0m[[0m[31merror[0m] [0m[0m      		AmazonRating(userId, productId, scoreStr.toDouble,"")[0m
+[0m[[0m[31merror[0m] [0m[0m      		            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hduser/dddd/src/main/scala/recModel.scala:48:54: value userId is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m		val trainingRatings = rawTrainingRatings.groupBy(_.userId).filter(r => MinRecommendationsPerUser <= r._2.size  && r._2.size < MaxRecommendationsPerUser).flatMap(_._2).repartition(NumPartitions).cache()[0m
+[0m[[0m[31merror[0m] [0m[0m		                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

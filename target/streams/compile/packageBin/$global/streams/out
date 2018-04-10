@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/hduser/dddd/target/scala-2.11/rec-model_2.11-1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recModel$AmazonRating$4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/dddd/target/scala-2.11/classes/recModel$AmazonRating$4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recModel$Dictionary$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/dddd/target/scala-2.11/classes/recModel$Dictionary$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recModel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/dddd/target/scala-2.11/classes/recModel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recModel$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/dddd/target/scala-2.11/classes/recModel$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recModel$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/dddd/target/scala-2.11/classes/recModel$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recModel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/dddd/target/scala-2.11/classes/recModel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recModel$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/dddd/target/scala-2.11/classes/recModel$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recModel$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/dddd/target/scala-2.11/classes/recModel$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recModel$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/dddd/target/scala-2.11/classes/recModel$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recModel$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/dddd/target/scala-2.11/classes/recModel$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recModel$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/dddd/target/scala-2.11/classes/recModel$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recModel$AmazonRating$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/dddd/target/scala-2.11/classes/recModel$AmazonRating$3.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
